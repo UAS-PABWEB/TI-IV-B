@@ -1,0 +1,3 @@
+Untuk mengakses web stok penjualan ini terdapat 2 akses, yaitu akses admin dan user.
+username admin , pass admin : untuk akses admin
+username fadjar , pass fadjar : untuk akses user
