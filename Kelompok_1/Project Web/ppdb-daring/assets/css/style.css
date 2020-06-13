@@ -1,0 +1,127 @@
+ul, li {
+    list-style-type: none;
+}
+
+.card-signin .card-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+  }
+
+.card-signin .card-body {
+    padding: 2rem;
+}
+
+.card-signin .card-body button {
+  margin-bottom: 2rem;
+}
+
+.form-label-group {
+    position: relative;
+    margin-bottom: 1rem;
+  }
+
+.table thead th {
+    text-align: center;
+}
+
+.table > thead > tr > th {
+  vertical-align: middle;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.bg-body {
+  background-color: #E9ECEF;
+}
+
+.jumbotron {
+  margin: 6.5rem 6rem;
+}
+
+footer .copyr {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.col .awak {
+  margin-top: 6.5rem;
+  margin-bottom: 3rem;
+}
+
+.col .cari {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.col #btn-tambah {
+  margin-left: -1rem;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 1080px) {
+  .wlcm h1 {
+    font-size: 2.5rem;
+  }
+
+  .wlcm p {
+    font-size: 1.2rem;
+  }
+
+  .wlcm .btn-daftar {
+    font-size: 1.2rem;
+  }
+
+  .form-tambah .col {
+    display: block;
+  }
+
+  .jumbotron {
+    margin-top: 6.5rem;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  
+  .navbar-nav .tmpl {
+    margin-bottom: 1rem;
+  }
+
+  nav .btn-out {
+    margin-bottom: 1rem;
+  }
+  
+  .col #btn-tambah {
+    margin-left: -4.5rem;
+  }
+
+  .awak .tbl {
+    margin-bottom: 1rem;
+  }
+
+  .tbl .btn-edit {
+    margin-bottom: 0.5rem;
+  }
+
+}
+
+@media only screen and (min-width: 992px) {
+  .navbar-nav .home, .navbar-nav .tmpl {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  nav .btn-out {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0.5rem;
+  }
+
+}
+
