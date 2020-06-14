@@ -1,0 +1,18 @@
+untuk login
+ username : admin
+ password : admin
+
+ keterangan website manajemen lapangan futsal AK_Futsal Majalengka
+ sebuah web yang mempunyai cara kerja yang mudah dan praktis untuk mempermudah admin mengelola, diaawali dengan login sebagian pengguna,  dimana ad fitur fitur yang digunakan 
+ disana seperti ada fitur module pengguna dimana bisa ditambah, diedit dan dihapus, 
+ module pengguna ini berfungsi untuk seseorang yang bisa mengakses web ini, dan bisa 
+ di tambahkan oleh admin, selain itu ada juga fitur module jadwal dimana di fitur ini admin 
+ bisa menambahkan jadwal lapangan kosong 
+ selain itu ada fitur module member dimana bisa ditambah,edit, dan hapus oleh admin sebagai
+ informasi pelanggan di tempat lapangan futsal ini, selanjut nya ada module boking yang 
+ berfungsi untuk memboking tempat lapangan, pada module boking ini para member yang berkomunikasi dengan admin untuk mengakses 
+ dan memboking lapangan, dan bisa mengatur atau memilih waktu nya, dan bisa segera membayar dengan transfer melalui bank dan dikonfir oleh admin, 
+ dan bisa mengprint atau mengsave bukti pembayaran berupa pdf, selain itu untuk mempermudah admin ada pintasan dashbord
+ untuk melihat jumlah jumlah yang ada, seperti module pengguna, module member, module jadwal 
+ module boking, total invoice lunas yaitu jumlah member yang sudah membayar lunas, total invoice belum lunas 
+ yaitu jumlah member yang belum membayar lunas
